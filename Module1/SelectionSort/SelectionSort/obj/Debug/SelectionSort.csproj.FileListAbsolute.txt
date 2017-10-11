@@ -1,0 +1,6 @@
+C:\Users\Skcali\dev\AlgorithmDataStructure-Course\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Skcali\dev\AlgorithmDataStructure-Course\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\Skcali\dev\AlgorithmDataStructure-Course\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\Skcali\dev\AlgorithmDataStructure-Course\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Skcali\dev\AlgorithmDataStructure-Course\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\Skcali\dev\AlgorithmDataStructure-Course\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb

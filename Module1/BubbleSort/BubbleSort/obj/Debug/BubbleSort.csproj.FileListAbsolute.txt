@@ -1,0 +1,6 @@
+C:\Users\Skcali\dev\AlgorithmDataStructure-Course\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\Skcali\dev\AlgorithmDataStructure-Course\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Skcali\dev\AlgorithmDataStructure-Course\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Skcali\dev\AlgorithmDataStructure-Course\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Skcali\dev\AlgorithmDataStructure-Course\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Skcali\dev\AlgorithmDataStructure-Course\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
